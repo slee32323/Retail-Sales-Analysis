@@ -1,2 +1,3 @@
-# Retail-Sales-Analysis
-Retail sales data analysis using Python, Pandas, Matplotlib, and Seaborn
+Retail Sales Data Analysis
+This project analyzes retail transaction data using Python and Pandas.
+The analysis includes monthly sales trends, customer demographics, product category performance, correlation analysis, and regression analysis.
